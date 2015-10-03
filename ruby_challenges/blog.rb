@@ -1,8 +1,10 @@
 class Blog
+  attr_accessor :title, :author, :time_stamp
 
-end
 
 class Blogpost
-  def 
-  end
+  attr_accessor creat
+  
+
+
 end
